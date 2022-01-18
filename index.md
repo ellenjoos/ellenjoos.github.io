@@ -38,6 +38,18 @@ Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) La
 
 ## Conferences
 
+09/2021 Joos E, Koning E, Tebartz van Elst L, Kornmeier J, Giersch A "Perceptual (un)certainty: behavioral and EEG differences between patients with schizophrenia and neurotypical controls" presented as a poster at the 8th European Conference on Schizophrenia Research (ECSR) meeting held online
+
+06/2021 Attending the 2nd International Workshop on Non-Invasive Brain Stimulation (University of Minnesota/online)
+
+05/2021 Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J "Large EEG amplitude effects are highly similar across Necker cube, smiley, and abstract stimuli" presented as a poster at the NeuroFrance 2021 (Société des Neurosciences) meeting held online
+
+03/2021 Member of the Organization Team of the Neurex Winter school 'How can we bring together phenomenology, experimental psychology and psychopathology: Virtual Reality as a solution?', Strasbourg/online
+
+01/2021 Attending the 4th Cerebellum Days - Insight into the Cerebellum. Hosted by the French Cerebellum Club and held online
+
+08/2019 Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J "How Meta-perception helps to process Ambiguity in Geometry and Emotion" in ECVP Abstract Supplement 2019, presented as a talk at the European Conference on Visual Perception (ECVP), Leuven, Belgium
+
 06/2019 Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J "How Meta-perception helps to process Ambiguity in Geometry and Emotion", presented as a poster at the conference Psychology and Brain (PuG), Dresden, Germany
 
 05/2019 Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J "How ambiguity helps to understand meta-perception – Similar EEG correlates of geometry and emotion processing", presented as a poster at the annual meeting of the Vision Sciences Society (VSS), St. Pete Beach, Florida, USA
