@@ -4,9 +4,13 @@
 ## Contact
 E-mail: ellen.joos@inserm.fr
 
+## Positions
+
+since 2021 Post-Doc at INSERM U1114 "Cognitive Neuropsychology and Pathophysiology of Schizophrenia", working in the European _Virtual Times_ project: Investigation of time perception using various methods such as Virtual Reality, EEG, fMRI, and TMS in healthy controls and in patients with Schizophrenia.
+
 ## Education
 
-2021 PhD in Neuroscience at the University of Strasbourg and the Albert-Ludwigs-University Freiburg. Title: "Neural processing of sensory ambiguity", funded by Neurex (IdEx Strasbourg, France) and the Deutsch-Französischen Hochschule (DFH)
+2021 PhD in Neuroscience (_summa cum laude_) at the University of Strasbourg and the Albert-Ludwigs-University Freiburg. Title: "EEG correlates of normal and altered processing strategies to solve the perceptual inference problem", funded by Neurex (IdEx Strasbourg, France), the Deutsch-Französischen Hochschule (DFH), and the Institute for Frontier Areas of Psychology and Mental Health (IGPP)
 
 2016 Master of Science: Biology at the Albert-Ludwigs-University Freiburg. Mastherthesis: "EEG correlates of Memory Effects during Perceptual Disambiguation"
 
