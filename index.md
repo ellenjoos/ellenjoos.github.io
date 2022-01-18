@@ -1,16 +1,16 @@
 ## Ellen Joos
 <img width="200" alt="portfolio_view" src="https://user-images.githubusercontent.com/97749444/149893498-e56fc70f-ce25-4cdb-844c-45d4085e3bf9.jpg">
 
-You can use the [editor on GitHub](https://github.com/ellenjoos/ellenjoos.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[//]: # "You can use the [editor on GitHub](https://github.com/ellenjoos/ellenjoos.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[//]: # "Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files."
 
-### Markdown
+[//]: # "### Markdown"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[//]: # "Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for"
 
-```markdown
-Syntax highlighted code block
+[//]: # "```markdown"
+[//]: # "Syntax highlighted code block"
 
 # Header 1
 ## Header 2
@@ -35,4 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out."
