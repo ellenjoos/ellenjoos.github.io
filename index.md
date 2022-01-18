@@ -1,4 +1,4 @@
-## Dr. rer. nat. Ellen Joos
+[//]: # "## Dr. rer. nat. Ellen Joos"
 <img width="200" alt="portfolio_view" src="https://user-images.githubusercontent.com/97749444/149893498-e56fc70f-ce25-4cdb-844c-45d4085e3bf9.jpg">
 
 ## Contact
