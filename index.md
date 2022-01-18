@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Ellen Joos
+<img width="200" alt="portfolio_view" src="https://user-images.githubusercontent.com/97749444/149893498-e56fc70f-ce25-4cdb-844c-45d4085e3bf9.jpg">
 
 You can use the [editor on GitHub](https://github.com/ellenjoos/ellenjoos.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
