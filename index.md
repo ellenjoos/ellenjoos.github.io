@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: jekyll-theme-tactile
 ---
 
 ## Dr. rer. nat. Ellen Joos
