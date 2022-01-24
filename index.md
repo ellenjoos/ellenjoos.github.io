@@ -30,6 +30,8 @@ Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) La
 
 ## Prizes
 
+01/2022 French-german price from Grand'Est - Promotion of Charles de Villers for the category Science and Techniques-Engineering-Computer Science
+
 06/2019 DGPA e.V. poster prize 2019 at the 45th meeting of "Psychology and Brain"
 
 02/2019 Blitztalk prize at the annual meeting of Neuropôle de Strasbourg
