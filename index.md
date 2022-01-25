@@ -21,11 +21,11 @@ since 2021 Post-Doc at INSERM U1114 "Cognitive Neuropsychology and Pathophysiolo
 
 Kornmeier J, Sosic-Vasic Z, Joos E (submitted) Spacing Learning Units affects both learn-ing and forgetting
 
-Kornmeier J, Bhatia K, Joos E (2021) Top down resolution of visual ambiguity – knowledge from the future or by footprints from the past? PLoS ONE 16(10): e0258667
+Kornmeier J, Bhatia K, Joos E (2021) Top down resolution of visual ambiguity – knowledge from the future or by footprints from the past? PLoS ONE 16(10): e0258667. <a href="https://doi.org/10.1371/journal.pone.0258667"> https://doi.org/10.1371/journal.pone.0258667 </a>
 
-Joos E, Giersch A, Bhatia K, Heinrich SP, Tebartz van Elst L, Kornmeier J (2020) Using the perceptual past to predict the perceptual future influences the perceived present – a novel ERP paradigm PLoS ONE 15(9): e0237663
+Joos E, Giersch A, Bhatia K, Heinrich SP, Tebartz van Elst L, Kornmeier J (2020) Using the perceptual past to predict the perceptual future influences the perceived present – a novel ERP paradigm PLoS ONE 15(9): e0237663. <a href="https://doi.org/10.1371/journal.pone.0237663"> https://doi.org/10.1371/journal.pone.0237663 </a>
 
-Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) Large EEG effects are highly similar across Necker cubes, smileys and abstract stimuli. PLoS ONE 15(5): e0232928
+Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) Large EEG effects are highly similar across Necker cubes, smileys and abstract stimuli. PLoS ONE 15(5): e0232928. <a href="https://doi.org/10.1371/journal.pone.0232928"> https://doi.org/10.1371/journal.pone.0232928 </a>
 
 
 ## Prizes
