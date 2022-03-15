@@ -41,6 +41,8 @@ Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) La
 
 ## Conferences
 
+03/2022 Joos E, Scherer C, Marrer C, Isope P, Foucher J, Giersch A "Does TMS of Crus I/II alter predictive processes?" presented as a poster at the 5th Cerebellum Days held in Bordeaux, France
+
 09/2021 Joos E, Koning E, Tebartz van Elst L, Kornmeier J, Giersch A "Perceptual (un)certainty: behavioral and EEG differences between patients with schizophrenia and neurotypical controls" presented as a poster at the 8th European Conference on Schizophrenia Research (ECSR) meeting held online
 
 06/2021 Attending the 2nd International Workshop on Non-Invasive Brain Stimulation (University of Minnesota/online)
