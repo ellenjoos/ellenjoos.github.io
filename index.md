@@ -43,6 +43,8 @@ Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) La
 
 ## Conferences
 
+07/2022 Joos E, Scherer C, Weill-Rossi R, Isope P, Foucher J, Giersch A "Are predictive processes altered by TMS of the cerebellum?" presented as a poster at the FENS forum 2022 held in Paris, France
+
 04/2022 Joos E, Koning E, Tebartz van Elst L, Kornmeier J, Giersch A "Perceptual (un)certainty: behavioral and EEG differences between patients with schizophrenia and neurotypicals" presented as a poster at the Congress of the Schizophrenia International Research Society (SIRS) held in Florence, Italy
 
 03/2022 Joos E, Scherer C, Marrer C, Isope P, Foucher J, Giersch A "Does TMS of Crus I/II alter predictive processes?" presented as a poster at the 5th Cerebellum Days held in Bordeaux, France
