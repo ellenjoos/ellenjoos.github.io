@@ -19,6 +19,8 @@ since 2021 Post-Doc at INSERM U1114 "Cognitive Neuropsychology and Pathophysiolo
 
 ## Publications
 
+Arrouet, A., Polgári, P., Giersch, A., & Joos, E. (2022). Temporal Order Judgments in Schizophrenia and Bipolar Disorders–Explicit and Implicit Measures. Timing & Time Perception, 1(aop), 1-24. <a href="https://brill.com/view/journals/time/aop/article-10.1163-22134468-bja10071/article-10.1163-22134468-bja10071.xml"> https://brill.com/view/journals/time/aop/article-10.1163-22134468-bja10071/article-10.1163-22134468-bja10071.xml </a>
+
 Kornmeier J, Sosic-Vasic Z, Joos E (2022) Spacing Learning Units affects both learn-ing and forgetting. Trends in Neuroscience and Education 26 : 100173 <a href="https://doi.org/10.1016/j.tine.2022.100173"> https://doi.org/10.1016/j.tine.2022.100173 </a>
 
 Kornmeier J, Bhatia K, Joos E (2021) Top down resolution of visual ambiguity – knowledge from the future or by footprints from the past? PLoS ONE 16(10): e0258667. <a href="https://doi.org/10.1371/journal.pone.0258667"> https://doi.org/10.1371/journal.pone.0258667 </a>
