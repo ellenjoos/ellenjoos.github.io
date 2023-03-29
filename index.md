@@ -15,7 +15,7 @@ since 2021 Post-Doc at INSERM U1114 "Cognitive Neuropsychology and Pathophysiolo
 
 2016 Master of Science: Biology at the Albert-Ludwigs-University Freiburg. Mastherthesis: "EEG correlates of Memory Effects during Perceptual Disambiguation"
 
-2013 Bachelor of Science: Biological Sciences in a Double-Degree program at the University of Rostock, Germany and the Babes-Bolyai University in Cluj-Napoca, Rumania
+2013 Bachelor of Science: Biological Sciences in a Double-Degree program at the University of Rostock, Germany and the Babes-Bolyai University in Cluj-Napoca, Romania
 
 ## Publications
 
