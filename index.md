@@ -45,6 +45,8 @@ Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) La
 
 ## Conferences
 
+02/2023 Attending the Neurex Symposium "Neuromodulation in Psychiatry". Hosted by iCube and held in Strasbourg
+
 07/2022 Joos E, Scherer C, Weill-Rossi R, Isope P, Foucher J, Giersch A "Are predictive processes altered by TMS of the cerebellum?" presented as a poster at the FENS forum 2022 held in Paris, France
 
 04/2022 Joos E, Koning E, Tebartz van Elst L, Kornmeier J, Giersch A "Perceptual (un)certainty: behavioral and EEG differences between patients with schizophrenia and neurotypicals" presented as a poster at the Congress of the Schizophrenia International Research Society (SIRS) held in Florence, Italy
