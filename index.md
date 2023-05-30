@@ -19,6 +19,8 @@ since 2021 Post-Doc at INSERM U1114 "Cognitive Neuropsychology and Pathophysiolo
 
 ## Publications
 
+Wilson M, Hecker L, Joos E, Aertsen A, Tebartz van Elst L and Kornmeier J (2023). Spontaneous Necker-cube reversals may not be that spontaneous. Front. Hum. Neurosci. 17:1179081. doi: 10.3389/fnhum.2023.1179081
+
 Arrouet, A., Polgári, P., Giersch, A., & Joos, E. (2022). Temporal Order Judgments in Schizophrenia and Bipolar Disorders–Explicit and Implicit Measures. Timing & Time Perception, 1(aop), 1-24. <a href="https://doi.org/10.1163/22134468-bja10071"> https://doi.org/10.1163/22134468-bja10071 </a>
 
 Kornmeier J, Sosic-Vasic Z, Joos E (2022) Spacing Learning Units affects both learn-ing and forgetting. Trends in Neuroscience and Education 26 : 100173 <a href="https://doi.org/10.1016/j.tine.2022.100173"> https://doi.org/10.1016/j.tine.2022.100173 </a>
