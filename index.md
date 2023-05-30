@@ -47,6 +47,8 @@ Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) La
 
 ## Conferences
 
+05/2023 Arrouet A, Polgári P, Giersch A, Joos E "Explicit and implicit measures of temporal order judgments in Schizophrenia and Bipolar Disorders" presented as a talk at The Science of Consciousness Conference (TSC) held in Taormina, Italy
+
 02/2023 Attending the Neurex Symposium "Neuromodulation in Psychiatry". Hosted by iCube and held in Strasbourg
 
 07/2022 Joos E, Scherer C, Weill-Rossi R, Isope P, Foucher J, Giersch A "Are predictive processes altered by TMS of the cerebellum?" presented as a poster at the FENS forum 2022 held in Paris, France
