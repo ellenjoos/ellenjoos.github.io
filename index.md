@@ -47,6 +47,8 @@ Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) La
 
 ## Conferences
 
+10/2023 Joos E, Scherer C, Foucher J, Isope P, Giersch A "Predictive processes are altered by TMS of the cerebellum" presented as a poster at the 3rd Timing Research Forum (TRF3) meeting held in Lisbon, Portugal
+
 06/2023 Joos E, Arrouet A, Polgári P, Giersch A "Altered temporal order judgments in Schizophrenia but not in Bipolar Disorders" presented as a talk at the 10th journées scientifiques de la fédération de médecine translationelle de Strasbourg (FMTS) held in Strasbourg, France
 
 05/2023 Arrouet A, Polgári P, Giersch A, Joos E "Explicit and implicit measures of temporal order judgments in Schizophrenia and Bipolar Disorders" presented as a talk at The Science of Consciousness Conference (TSC) held in Taormina, Italy
