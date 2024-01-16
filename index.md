@@ -3,7 +3,7 @@
 <img width="200" alt="portfolio_view" src="https://user-images.githubusercontent.com/97749444/149893498-e56fc70f-ce25-4cdb-844c-45d4085e3bf9.jpg">
 
 ## Contact
-E-mail: [ellen.joos@inserm.fr](mailto:ellen.joos@inserm.fr)
+E-mail: [joos@igpp.de](mailto:joos@igpp.de)
 
 ## Positions
 
