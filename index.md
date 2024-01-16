@@ -7,7 +7,9 @@ E-mail: [ellen.joos@inserm.fr](mailto:ellen.joos@inserm.fr)
 
 ## Positions
 
-since 2021 Post-Doc at INSERM U1114 "Cognitive Neuropsychology and Pathophysiology of Schizophrenia", working in the European _Virtual Times_ project: Investigation of time perception using various methods such as Virtual Reality, EEG, fMRI, and TMS in healthy controls and in patients with Schizophrenia.
+since 01/2024 Post-Doc at the Institute for Frontier Areas of Psychology and Mental Health (IGPP e.V.) in Freiburg, Germany. Current projects involve EEG and fMRI studies in neurotypcials and patients with Schizophrenia on visual perception, predictive processes, and mental instabilities. 
+
+01/2021 - 12/2023 Post-Doc at INSERM U1114 "Cognitive Neuropsychology and Pathophysiology of Schizophrenia" in Strasbourg, France, working in the European _Virtual Times_ project: Investigation of time perception using various methods such as Virtual Reality, EEG, fMRI, and TMS in healthy controls and in patients with Schizophrenia.
 
 ## Education
 
