@@ -21,7 +21,7 @@ since 01/2024 Post-Doc at the Institute for Frontier Areas of Psychology and Men
 
 ## Publications
 
-Wilson M, Joos E, Bonnefond A, Giersch A, Tebartz van Elst L, Hecker L, Kornmeier J (submitted). Do smaller P300 amplitudes in Schizoprenia result from larger variability in temporal processing?
+Wilson M, Joos E, Bonnefond A, Giersch A, Tebartz van Elst L, Hecker L, Kornmeier J (submitted). Do smaller P300 amplitudes in Schizophrenia result from larger variability in temporal processing?
 
 Modhdehfarahbakhsk A, Hecker L, Joos E, Kornmeier J (under review). Mental imagination can influence visual perception - towards an experimental paradigm to measure imagination
 
