@@ -21,6 +21,12 @@ since 01/2024 Post-Doc at the Institute for Frontier Areas of Psychology and Men
 
 ## Publications
 
+Wilson M, Joos E, Bonnefond A, Giersch A, Tebartz van Elst L, Hecker L, Kornmeier J (submitted). Do smaller P300 amplitudes in Schizoprenia result from larger variability in temporal processing?
+
+Modhdehfarahbakhsk A, Hecker L, Joos E, Kornmeier J (under review). Mental imagination can influence visual perception - towards an experimental paradigm to measure imagination
+
+Foerster F*, Joos E*, Martin B, Coull J, Giersch A (under review). Self and time in individuals with schizophrenia: a motor component? (*shared first authorship)
+
 Wilson M, Hecker L, Joos E, Aertsen A, Tebartz van Elst L and Kornmeier J (2023). Spontaneous Necker-cube reversals may not be that spontaneous. Front. Hum. Neurosci. 17:1179081. <a href="https://doi.org/10.3389/fnhum.2023.1179081"> https://doi.org/10.3389/fnhum.2023.1179081 </a>
 
 Arrouet, A., Polgári, P., Giersch, A., & Joos, E. (2022). Temporal Order Judgments in Schizophrenia and Bipolar Disorders–Explicit and Implicit Measures. Timing & Time Perception, 1(aop), 1-24. <a href="https://doi.org/10.1163/22134468-bja10071"> https://doi.org/10.1163/22134468-bja10071 </a>
