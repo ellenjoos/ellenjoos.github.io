@@ -25,7 +25,7 @@ Wilson M, Joos E, Bonnefond A, Giersch A, Tebartz van Elst L, Hecker L, Kornmeie
 
 Modhdehfarahbakhsk A, Hecker L, Joos E, Kornmeier J (under review). Mental imagination can influence visual perception - towards an experimental paradigm to measure imagination
 
-Foerster F*, Joos E*, Martin B, Coull J, Giersch A (under review). Self and time in individuals with schizophrenia: a motor component? (*shared first authorship)
+Foerster F\*, Joos E\*, Martin B, Coull J, Giersch A (under review). Self and time in individuals with schizophrenia: a motor component? (*shared first authorship)
 
 Wilson M, Hecker L, Joos E, Aertsen A, Tebartz van Elst L and Kornmeier J (2023). Spontaneous Necker-cube reversals may not be that spontaneous. Front. Hum. Neurosci. 17:1179081. <a href="https://doi.org/10.3389/fnhum.2023.1179081"> https://doi.org/10.3389/fnhum.2023.1179081 </a>
 
