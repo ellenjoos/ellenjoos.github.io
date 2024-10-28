@@ -21,11 +21,11 @@ since 01/2024 Post-Doc at the Institute for Frontier Areas of Psychology and Men
 
 ## Publications
 
-Wilson M, Joos E, Bonnefond A, Giersch A, Tebartz van Elst L, Hecker L, Kornmeier J (submitted). Do smaller P300 amplitudes in Schizophrenia result from larger variability in temporal processing?
+Wilson M, Joos E, Bonnefond A, Giersch A, Tebartz van Elst L, Hecker L, Kornmeier J (in press). Do smaller P300 amplitudes in Schizophrenia result from larger variability in temporal processing?
 
-Modhdehfarahbakhsk A, Hecker L, Joos E, Kornmeier J (under review). Mental imagination can influence visual perception - towards an experimental paradigm to measure imagination
+Mozhdehfarahbakhsh, A., Hecker, L., Joos, E., & Kornmeier, J. (2024). Visual imagination can influence visual perception–towards an experimental paradigm to measure imagination. Scientific Reports, 14(1), 24486.
 
-Foerster F\*, Joos E\*, Martin B, Coull J, Giersch A (under review). Self and time in individuals with schizophrenia: a motor component? (*shared first authorship)
+Foerster, F. R.\*, Joos, E.\*, Martin, B., Coull, J. T., & Giersch, A. (2024). Self and time in individuals with schizophrenia: A motor component?. Schizophrenia Research, 272, 12-19. <a href="https://doi.org/10.1016/j.schres.2024.08.008"> https://doi.org/10.1016/j.schres.2024.08.008 </a> (*shared first authorship)
 
 Wilson M, Hecker L, Joos E, Aertsen A, Tebartz van Elst L and Kornmeier J (2023). Spontaneous Necker-cube reversals may not be that spontaneous. Front. Hum. Neurosci. 17:1179081. <a href="https://doi.org/10.3389/fnhum.2023.1179081"> https://doi.org/10.3389/fnhum.2023.1179081 </a>
 
