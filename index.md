@@ -23,7 +23,7 @@ since 01/2024 Post-Doc at the Institute for Frontier Areas of Psychology and Men
 
 Wilson M, Joos E, Bonnefond A, Giersch A, Tebartz van Elst L, Hecker L, Kornmeier J (in press). Do smaller P300 amplitudes in Schizophrenia result from larger variability in temporal processing?
 
-Mozhdehfarahbakhsh, A., Hecker, L., Joos, E., & Kornmeier, J. (2024). Visual imagination can influence visual perception–towards an experimental paradigm to measure imagination. Scientific Reports, 14(1), 24486.
+Mozhdehfarahbakhsh, A., Hecker, L., Joos, E., & Kornmeier, J. (2024). Visual imagination can influence visual perception–towards an experimental paradigm to measure imagination. Scientific Reports, 14(1), 24486. <a [href="https://doi.org/10.1038/s41598-024-74693-x"> https://doi.org/10.1038/s41598-024-74693-x </a>
 
 Foerster, F. R.\*, Joos, E.\*, Martin, B., Coull, J. T., & Giersch, A. (2024). Self and time in individuals with schizophrenia: A motor component?. Schizophrenia Research, 272, 12-19. <a href="https://doi.org/10.1016/j.schres.2024.08.008"> https://doi.org/10.1016/j.schres.2024.08.008 </a> (*shared first authorship)
 
