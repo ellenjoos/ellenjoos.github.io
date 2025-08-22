@@ -55,6 +55,8 @@ Joos E, Giersch A, Hecker L, Schipp J, Tebartz van Elst L, Kornmeier J (2020) La
 
 ## Conferences
 
+06/2025 Joos E, "Perceptual Uncertainty and Temporal Mechanisms – EEG Studies in Neurotypicals and Patients with Schizophrenia" presented as an invited talk in the Cognitive Science Colloquium at the Eberhard Karls University Tübingen, Germany
+
 08/2024 Joos E, Koning E, Scherer C, Wilson M, Tebartz van Elst L, Giersch A, Kornmeier J "Uncertainty processing in Schizophrenia - electrophysiological evidence of alterations in intensity and temporal precision" presented as a poster at the 46th European Conference on Visual Perception (ECVP) held in Aberdeen, Scotland
 
 05/2024 Joos E, Fach W, Wilson M, Tebartz van Elst L, Giersch A, Kornmeier J "Schizophrenia and exceptional experiences - phenomenological and electrophysiological measures" presented as a poster of the 49th Annual Conference Psychology and Brain (PuG) held in Hamburg, Germany
