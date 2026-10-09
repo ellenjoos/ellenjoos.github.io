@@ -21,6 +21,8 @@ since 01/2024 Post-Doc at the Institute for Frontier Areas of Psychology and Men
 
 ## Publications
 
+Joos E, Scherer C, Isope P, Foucher J, Giersch A (2026). Subthreshold violations of trajectory predictions are sensitive to TMS of cerebellum Crus I/II. Neuroimage: Reports, 6(3), 100382. <a href="https://doi.org/10.1016/j.ynirp.2026.100382"> https://doi.org/10.1016/j.ynirp.2026.100382 </a>
+
 Wilson M, Joos E, Bonnefond A, Giersch A, Tebartz van Elst L, Hecker L, Kornmeier J (2024). Do smaller P300 amplitudes in Schizophrenia result from larger variability in temporal processing? Schizophrenia, 10(1), 1–8. <a href="https://doi.org/10.1038/s41537-024-00519-4"> https://doi.org/10.1038/s41537-024-00519-4 </a>
 
 Mozhdehfarahbakhsh, A., Hecker, L., Joos, E., & Kornmeier, J. (2024). Visual imagination can influence visual perception–towards an experimental paradigm to measure imagination. Scientific Reports, 14(1), 24486. <a href="https://doi.org/10.1038/s41598-024-74693-x"> https://doi.org/10.1038/s41598-024-74693-x </a>
